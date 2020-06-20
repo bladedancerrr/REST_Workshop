@@ -3,7 +3,7 @@ Hey there, this is the code used in WestSideCoders' 2020 workshop 'Introduction 
 
 The code is built off of Flask's quick start manual: https://flask.palletsprojects.com/en/1.1.x/quickstart/.
 
-### Some Definitions
+# Some Definitions
 ## What is REST?
 REST stands for Represenataional State Transfer. It is an a design pattern that treats any object on a server as resources that can be updated, deleted, retrieved. or created. In this way, it standardizes communication between servers.
 
