@@ -1,4 +1,4 @@
-## REST Workshop WestSideCoders
+# REST Workshop WestSideCoders
 Hey there, this is the code used in WestSideCoders' 2020 workshop 'Introduction to the REST architectural style with Flask &amp; Python'.
 
 The code is built off of Flask's quick start manual: https://flask.palletsprojects.com/en/1.1.x/quickstart/.
